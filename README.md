@@ -103,3 +103,9 @@ See [FFmpeg installation guide](https://www.ffmpeg.org/download.html) for detail
 [FFMpeg]: https://www.ffmpeg.org/
 
 
+
+If end user notice any errors stated that as: FileNotFoundError: ffmpeg not found, 
+```
+conda install -c conda-forge ffmpeg
+```
+The above command line is all you need to executed.

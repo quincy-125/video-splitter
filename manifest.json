@@ -1,0 +1,12 @@
+[
+    {
+        "start_time": 0,
+        "length": 10,
+        "rename_to": "video1"
+    },
+    {
+        "start_time": 12,
+        "length": 15,
+        "rename_to": "video2.mp4"
+    }
+]

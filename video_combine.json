@@ -1,0 +1,8 @@
+{
+    "video_clip_paths": [
+        "video1.mp4",
+        "video2.mp4"
+    ],
+    "output_path": "test.mp4",
+    "method": "compose"
+}

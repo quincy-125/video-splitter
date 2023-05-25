@@ -2,11 +2,11 @@
     {
         "start_time": 0,
         "length": 10,
-        "rename_to": "video1"
+        "rename_to": "/home/guq11/creater_23/recordings/video1"
     },
     {
         "start_time": 12,
         "length": 15,
-        "rename_to": "video2.mp4"
+        "rename_to": "/home/guq11/creater_23/recordings/video2.mp4"
     }
 ]

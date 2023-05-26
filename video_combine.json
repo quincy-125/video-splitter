@@ -1,8 +1,14 @@
 {
     "video_clip_paths": [
-        "video1.mp4",
-        "video2.mp4"
+        "/home/guq11/creater_23/recordings/e2/S1_3.mp4",
+        "/home/guq11/creater_23/recordings/e2/S4.mp4",
+        "/home/guq11/creater_23/recordings/e2/S5.mp4",
+        "/home/guq11/creater_23/recordings/e2/S6.mp4",
+        "/home/guq11/creater_23/recordings/e2/S7.mp4",
+        "/home/guq11/creater_23/recordings/e2/S8.mp4",
+        "/home/guq11/creater_23/recordings/e2/S9_10.mp4",
+        "/home/guq11/creater_23/recordings/e2/S11.mp4"
     ],
-    "output_path": "test.mp4",
+    "output_path": "/home/guq11/creater_23/recordings/Roche_Virtual_Pathologist.mp4",
     "method": "compose"
 }
